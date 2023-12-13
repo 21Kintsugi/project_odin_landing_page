@@ -116,3 +116,9 @@ button {
     color: black;
 }
 
+.quote .container {
+    display: flex;
+    max-width: 45%;
+    justify-content: center;
+}
+
