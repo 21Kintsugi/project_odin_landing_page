@@ -97,6 +97,7 @@ button {
 }
 
 .boxes {
+    padding: 40px;
     background-color: whitesmoke;
     color: black;
 }
