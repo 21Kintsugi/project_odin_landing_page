@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad:wght@500&family=Poppins:wght@100&family=Roboto:wght@100&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: Afacad, Poppins, Roboto;
 }
 
 body {
@@ -30,7 +33,7 @@ ul {
 .navbar {
     background-color: #1f2937;
     color: white;
-    height: 100px;
+    height: 80px;
 }
 
 .navbar .logo {
