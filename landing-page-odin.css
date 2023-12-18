@@ -172,11 +172,13 @@ button {
 }
 
 .footer {
-    height: 100px;
-    margin-top: 20px;
-    background-color: #1f2937;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+   min-height: 60px;
+   background-color: #1f2937;
+   font-size: 15px;
 }
 
+.footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
